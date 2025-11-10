@@ -1,20 +1,20 @@
 [
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "aloha_dancer.png"}, 
+    "material": {"ambient": [1.0,1.0,1.0], "diffuse": [1.0,1.0,1.0], "specular": [1.0,1.0,1.0], "n":20, "alpha": 1.0, "texture": "aloha_dancer.png"}, 
     "vertices": [[1.0,-0.1,0.2],[1.0,0.7,0.2],[0.6,0.7,0.2],[0.6,-0.1,0.2]],
     "normals": [[0, 0, -1],[0, 0, -1],[0, 0, -1],[0, 0, -1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "aloha_bird.png"}, 
+    "material": {"ambient": [1.0,1.0,1.0], "diffuse": [1.0,1.0,1.0], "specular": [1.0,1.0,1.0], "n":20, "alpha": 1.0, "texture": "aloha_bird.png"}, 
     "vertices": [[0.8,1.0,1.0],[0.8,1.2,1.0],[0.6,1.2,1.0],[0.6,1.0,1.0]],
     "normals": [[0, 0, -1],[0, 0, -1],[0, 0, -1],[0, 0, -1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
     "triangles": [[0,1,2],[2,3,0]]
   },
   {
-    "material": {"ambient": [0.1,0.1,0.1], "diffuse": [0.6,0.6,0.4], "specular": [0.3,0.3,0.3], "n":17, "alpha": 1.0, "texture": "aloha_bird_flipped.png"}, 
+    "material": {"ambient": [1.0,1.0,1.0], "diffuse": [1.0,1.0,1.0], "specular": [1.0,1.0,1.0], "n":20, "alpha": 1.0, "texture": "aloha_bird_flipped.png"}, 
     "vertices": [[1.2,0.8,2.0],[1.2,1.0,2.0],[1.0,1.0,2.0],[1.0,0.8,2.0]],
     "normals": [[0, 0, -1],[0, 0, -1],[0, 0, -1],[0, 0, -1]],
     "uvs": [[0,0], [0,1], [1,1], [1,0]],
